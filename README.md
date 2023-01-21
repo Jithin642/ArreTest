@@ -12,3 +12,5 @@ nodemon app.js will display all the messages. As i was out of time could not fin
 By using run with server option on index.html. You will be able to add your name and message. Sucessfully posted them into mongoDB database.
 
 I have used MongoDB as database. I have created a database in mongoDB atlas and connected to my project.
+
+nodemon app.js will start the server
